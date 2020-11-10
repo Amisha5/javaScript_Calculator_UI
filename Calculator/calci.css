@@ -1,0 +1,37 @@
+*
+		{
+			margin: 0;
+			padding:0;
+		}
+	 .btn
+	 {
+	 	width: 40px;
+	 	height: 40px;
+	 	font-size: 25px;
+	 	margin: 2px;
+	 	border:none;
+	 	cursor: pointer;
+	 	background:black;
+	 	color: white;
+	 }
+	 .textview
+	 {
+	 	width: 175px;
+	 	margin: 5px;
+	 	height: 25px;
+	 	font-size: 28;
+	 	padding: 2px;
+	 	color: black;
+	 }
+	 .main
+	 {
+	 	position: absolute;
+	 	top: 50%;
+	 	left: 50%;
+	 	transform: translateX(-50%) translateY(-50%);
+	 }
+	 .bg
+	 {
+	 	background: #ef6c4f;
+	 	
+	 }
